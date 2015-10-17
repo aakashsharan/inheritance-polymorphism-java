@@ -1,0 +1,16 @@
+The following is the ouput from the test class:
+
+I am super cute
+I have 4 legs
+I am a large breed dog and my color is cream
+-----------------
+I am super duper cute.
+I am a large breed dog and my color is golden
+-----------------
+I am super cute
+I have 4 legs
+I am a large breed dog and my color is cream
+-----------------
+I am super cute
+I have 4 legs
+I am a DOG and my DOGGY COLOR is brown
