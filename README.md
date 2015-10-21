@@ -1,4 +1,4 @@
-#**Polymorphism and Inheritance IN Java**
+#**Polymorphism and Inheritance In Java**
 
 
 ###**what is it?**
