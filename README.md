@@ -1,4 +1,4 @@
-#**POLYMORPHISM IN JAVA**
+#**Polymorphism and Inheritance IN Java**
 
 
 ###**what is it?**
@@ -14,6 +14,9 @@ it's an eclipse project so from eclipse do the following steps to import the pro
 ```
 eclipse > file > import > existing projects into workspace.
 ```
+
+Moreover, go through the notes.md inside documents folder for details regarding abstract classes and interface.
+Check Output.txt to see the output of the TestingAnimals class.
 
 ###**bug reporting**
 
